@@ -1,4 +1,4 @@
-![SMARTEST Home Page](SMARTEST_1.png)
+![SMARTEST Home Page](https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png)
 
 ### Hi, I'm David and I am currently working as a research associate at the University of Westminster!
 
