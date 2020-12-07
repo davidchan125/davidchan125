@@ -1,5 +1,3 @@
-![SMARTEST Home Page](https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png)
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/2f1129a167b389f308a882946e000a12fde250e535945443037c81894c1ca09a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382e676966" alt="Loading...">
 </p>
@@ -11,6 +9,9 @@ Recently, I've worked as part of a small software development team to develop [�
 <p>Working on SMARTEST has allowed me to develop not only coding skills in HTML, CSS and JavaScript, but also in working with Neo4j as part of other research projects, and with MongoDB and Heroku with a Node.js/Express backend. Previously, during my time as a university student, I had also gained experience in Java, C#, MySQL and Swift and had the interesting experience of learning Objective-C (a very cool language!) shortly after graduating.<p>
   
 A more detailed record of my career as a software developer can be found on [LinkedIn](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
+
+![SMARTEST Home Page](https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png)
+<img src="https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png" alt="SMARTEST Home Page" align="center" height="790" width="1426">
 
 <!--
 **davidchan125/davidchan125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
