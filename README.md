@@ -1,3 +1,4 @@
+![Loading](https://camo.githubusercontent.com/2f1129a167b389f308a882946e000a12fde250e535945443037c81894c1ca09a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382e676966)
 ![SMARTEST Home Page](https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png)
 
 ### Hi, I'm David and I am currently working as a research associate at the University of Westminster!
