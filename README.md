@@ -5,7 +5,7 @@
 
 Recently, I've worked as part of a small software development team to develop [ΣMARTEST](https://smartestknowledge.org/) (pronounced _sum-artest_ as Σ can mean "the sum of"), an online learning tool and Quintin Hogg-funded project at the University of Westminster!
 
-<p>Working on SMARTEST has allowed me to develop not only coding skills in HTML, CSS and JavaScript, but also in working with Neo4j as part of other research projects, and with MongoDB and Heroku with a Node.js/Express backend. Previously, during my time as a university student, I had also gained experience in Java, C#, MySQL and Swift and had the interesting experience of learning Objective-C (a very cool language!) shortly after graduating.<p>
+<p>Working on SMARTEST (also correct spelling) has allowed me to develop not only coding skills in HTML, CSS and JavaScript, but also in working with Neo4j as part of other research projects, and with MongoDB and Heroku with a Node.js/Express backend. Previously, during my time as a university student, I had also gained experience in Java, C#, MySQL and Swift and had the interesting experience of learning Objective-C (a very cool language!) shortly after graduating.<p>
   
 A more detailed record of my career as a software developer can be found on [LinkedIn](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
