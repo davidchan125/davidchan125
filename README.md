@@ -1,5 +1,5 @@
 
-<p align="center">[<img src="https://i.imgur.com/xYqkEnQ.png" alt="SMARTEST Home Page" align="left">](https://smartestknowledge.org/)</p>
+[<img src="https://i.imgur.com/xYqkEnQ.png" alt="SMARTEST Home Page" align="center">](https://smartestknowledge.org/)
 
 ### Hi, I'm David and I am currently working as a research associate at the University of Westminster!
 
