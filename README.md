@@ -11,7 +11,6 @@ Recently, I've worked as part of a small software development team to develop [�
 A more detailed record of my career as a software developer can be found on [LinkedIn](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
 ![SMARTEST Home Page](https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png)
-<img src="https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png" alt="SMARTEST Home Page" align="center" height="790" width="1426">
 
 <!--
 **davidchan125/davidchan125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
