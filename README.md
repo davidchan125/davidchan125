@@ -7,7 +7,7 @@ Recently, I've worked as part of a small software development team to develop [Î
 
 <p>Working on SMARTEST (also correct spelling) has allowed me to develop not only coding skills in HTML, CSS and JavaScript, but also in working with Neo4j as part of other research projects, and with MongoDB and Heroku with a Node.js/Express backend.</p>
 
-<p>During my time as a university student, I also gained experience in Java, C#, MySQL and Swift and had the interesting experience of learning Objective-C (a very cool language!) shortly after graduating.</p>
+<p>During my time as a university student, I also gained experience in Java, C#, MySQL and Swift and Objective-C shortly after graduating.</p>
   
 A more detailed record of my career as a software developer can be found on [LinkedIn](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
