@@ -7,10 +7,8 @@ Recently, I've worked as part of a small software development team to develop [Î
 A more detailed record of my career as a software developer can be found on [LinkedIn](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
 <p align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
-  <img src="https://camo.githubusercontent.com/2f1129a167b389f308a882946e000a12fde250e535945443037c81894c1ca09a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382e676966" alt="Loading...">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davidchan125/davidchan125/master/SMARTEST_1.png" alt="SMARTEST Home Page">
+  <img src="https://camo.githubusercontent.com/2f1129a167b389f308a882946e000a12fde250e535945443037c81894c1ca09a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382e676966" alt="Loading..." align="left">
+  <img src="https://i.imgur.com/xYqkEnQ.png" alt="SMARTEST Home Page" align="right">
 </p>
 
 <!--
