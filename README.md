@@ -9,7 +9,7 @@ Recently, our development team at the university finished developing [ΣMARTEST]
 
 <p>Working on SMARTEST has allowed me to develop coding skills in HTML, CSS and JavaScript and has given me experience with MongoDB, Heroku and Node.js (with Express.js!). I also had the opportunity to work with Neo4j as part of other research projects running in parallel to SMARTEST.</p>
 
-<p>Before SMARTEST, I gained experience in Java, C#, MySQL and Swift during my university course and Objective-C shortly after graduating.</p>
+<p>Before, I gained experience in Java, C#, MySQL and Swift during my university course and Objective-C shortly after graduating.</p>
   
 I can be found on LinkedIn [here](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
