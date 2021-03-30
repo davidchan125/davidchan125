@@ -1,19 +1,17 @@
+Hi, I'm David and I am currently working as a research associate at the University of Westminster!
 
-[<img src="https://i.imgur.com/xYqkEnQ.png" alt="SMARTEST Home Page">](https://smartestknowledge.org/)
+The most recent accessible project I have contributed to is called ΣMARTEST (pronounced _sum-artest_), which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please sign up as a student and try it out. We really appreciate feedback!
 
-### Hi, I'm David and I am currently working as a research associate at the University of Westminster!
-
-The most recent completed project I have contributed to is [ΣMARTEST](https://smartestknowledge.org/) (pronounced _sum-artest_ as Σ can mean "the sum of") where I was part of a dev team at the University of Westminster. If you are open to trying something new, please sign up as a student and try it out. We also really appreciate feedback!
-
-Working on SMARTEST has allowed me to develop my web development experience working with
-- the HTML, CSS and JavaScript languages
+Working on SMARTEST has allowed me to develop my web development experience with:
+- HTML, CSS and JavaScript
 - MongoDB
 - MySQL
 - Heroku
 - Node.js and Express
-<p>I also had the opportunity to work with Neo4j as part of other research projects running in parallel to SMARTEST.</p>
+- the [vis.js](https://visjs.github.io/vis-network/examples/) library (very cool)!
+<p>I also had the opportunity to work with the Neo4j graph database as part of other research projects running in parallel to SMARTEST.</p>
 
-<p>During university, I learned Java, C#, MySQL and Swift. After graduation I learned Objective-C as part of iOS development.</p>
+<p>During university, I learned Java, C#, MySQL and Swift, and after graduation I learned Objective-C as part of an iOS development role.</p>
   
 I can be found on LinkedIn [here](https://www.linkedin.com/in/david-chan-you-fee-2533b3148/)!
 
