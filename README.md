@@ -2,7 +2,7 @@ Hi, I'm David, a research associate at the University of Westminster!
 
 The most recent accessible project I have contributed to is called ΣMARTEST (pronounced _sum-artest_), which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please sign up as a student and try it out. We really appreciate feedback!
 
-[<img src="https://i.imgur.com/xYqkEnQ.png" alt="SMARTEST Home Page">](https://smartestknowledge.org/)
+[<img src="smartest-logo.png" alt="SMARTEST Home Page" width="308px" height="85px">](https://smartestknowledge.org/)
 
 Working on SMARTEST has allowed me to develop my web development experience with:
 - HTML, CSS and JavaScript
