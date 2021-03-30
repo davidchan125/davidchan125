@@ -3,9 +3,9 @@
 
 ### Hi, I'm David and I am currently working as a research associate at the University of Westminster!
 
-<p>The most recent completed project I have contributed to is [ΣMARTEST](https://smartestknowledge.org/) (pronounced _sum-artest_ as Σ can mean "the sum of") where I was part of a dev team at the University of Westminster. If you are open to trying something new, please sign up as a student and try it out. We also really appreciate feedback!</p>
+The most recent completed project I have contributed to is [ΣMARTEST](https://smartestknowledge.org/) (pronounced _sum-artest_ as Σ can mean "the sum of") where I was part of a dev team at the University of Westminster. If you are open to trying something new, please sign up as a student and try it out. We also really appreciate feedback!
 
-<p>Working on SMARTEST has allowed me to develop my web development experience working with</p>
+Working on SMARTEST has allowed me to develop my web development experience working with
 - the HTML, CSS and JavaScript languages
 - MongoDB
 - MySQL
