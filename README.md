@@ -1,4 +1,4 @@
-Hi, I'm David, a research associate at the University of Westminster!
+Hi, I'm David, a research associate in knowledge representation at the University of Westminster!
 
 The most recent accessible project I have contributed to is called ΣMARTEST (pronounced _sum-artest_), which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please sign up as a student and try it out. We really appreciate feedback!
 
